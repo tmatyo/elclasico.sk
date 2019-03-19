@@ -22,9 +22,15 @@ class Schedule extends Component {
 				<h2>Schedule</h2>
 				<table>
 					<tbody>
-						<tr>
-							<td></td>
-						</tr>
+						{this.state.sc.map(row => {
+							return (
+							<tr key="row.time" className="upcoming-match">
+								<td>{row.time}</td>
+								<td>{row.home_team}</td>
+								<td>{row.away_team}</td>
+							</tr>
+							)
+						})}
 					</tbody>
 				</table>
 			</div>
