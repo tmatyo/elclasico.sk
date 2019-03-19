@@ -57019,3 +57019,3169 @@
   (anonymous function) (:1)
 
   phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:17.282Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:17.282Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:27.558Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:27.559Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T18:42:28.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T18:42:37.222Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:37.223Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:47.493Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:47.493Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:57.536Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:42:57.536Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:07.205Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:07.205Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:17.217Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:17.217Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:27.505Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:27.506Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:37.215Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:37.216Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:47.601Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:47.601Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:57.224Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:43:57.224Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:07.199Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:07.199Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:17.345Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:17.345Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:27.285Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:27.285Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:37.558Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:37.558Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:47.443Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:47.443Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:57.289Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:44:57.289Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:07.247Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:07.247Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:17.186Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:17.186Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:27.245Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:27.245Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:37.201Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:37.201Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:47.251Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:47.251Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:57.265Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:45:57.266Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:07.171Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:07.172Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:17.178Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:17.178Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:27.230Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:27.230Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:37.252Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:37.252Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:47.748Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:47.748Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:57.325Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:46:57.325Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:07.342Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:07.343Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:17.279Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:17.279Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:27.560Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:27.560Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T18:47:28.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T18:47:37.210Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:37.210Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:47.261Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:47.261Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:57.350Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:47:57.350Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:07.176Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:07.176Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:17.188Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:17.188Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:27.643Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:27.643Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:37.307Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:37.307Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:47.703Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:47.703Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:57.224Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:48:57.224Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:07.297Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:07.297Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:17.230Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:17.230Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:27.164Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:27.164Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:42.341Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:42.341Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:48.533Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:48.533Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:58.513Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:49:58.513Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:15.119Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:15.119Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:17.199Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:17.199Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:27.362Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:27.362Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:42.335Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:42.335Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:47.866Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:50:47.866Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:01.448Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:01.448Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:07.311Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:07.311Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:22.102Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:22.102Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:27.368Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:27.368Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:43.571Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:43.571Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:47.384Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:47.384Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:57.272Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:51:57.272Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:07.278Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:07.278Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:17.296Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:17.296Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:27.549Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:27.549Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T18:52:28.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T18:52:37.271Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:37.271Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:47.350Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:47.350Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:57.420Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:52:57.420Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:07.215Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:07.215Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:17.277Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:17.277Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:27.209Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:27.209Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:37.505Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:37.505Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:47.954Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:47.954Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:57.474Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:53:57.474Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:07.218Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:07.218Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:17.239Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:17.239Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:27.291Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:27.291Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:37.307Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:37.307Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:47.414Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:47.414Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:57.193Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:54:57.193Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:07.135Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:07.135Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:17.170Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:17.170Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:27.205Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:27.205Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:37.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:37.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:47.206Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:47.206Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:57.169Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:55:57.169Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:07.231Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:07.232Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:17.235Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:17.235Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:27.187Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:27.187Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:37.183Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:37.183Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:47.146Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:47.146Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:57.199Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:56:57.199Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:07.167Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:07.167Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:17.151Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:17.151Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:27.181Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:27.181Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T18:57:28.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T18:57:37.221Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:37.222Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:47.223Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:47.223Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:57.177Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:57:57.177Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:07.494Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:07.494Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:17.168Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:17.168Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:27.140Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:27.140Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:37.163Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:37.163Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:47.104Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:47.104Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:57.287Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:58:57.287Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:07.297Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:07.298Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:17.126Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:17.126Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:27.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:27.176Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:37.208Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:37.208Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:47.439Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:47.439Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:57.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T18:59:57.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:07.148Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:07.148Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:17.844Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:17.845Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:27.502Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:27.502Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:37.143Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:37.143Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:47.120Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:47.120Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:57.425Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:00:57.425Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:08.251Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:08.252Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:17.341Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:17.341Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:27.983Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:27.983Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:37.174Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:37.174Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:47.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:47.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:57.247Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:01:57.247Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:07.194Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:07.194Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:17.191Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:17.191Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:27.563Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:27.563Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:02:28.832Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:02:37.666Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:37.666Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:47.224Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:47.224Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:57.118Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:02:57.118Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:07.172Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:07.172Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:17.423Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:17.423Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:27.468Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:27.468Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:37.153Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:37.153Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:47.484Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:47.484Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:57.123Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:03:57.123Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:07.161Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:07.162Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:18.248Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:18.248Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:27.164Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:27.164Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:37.279Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:37.279Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:48.022Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:48.022Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:57.359Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:04:57.359Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:08.005Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:08.005Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:18.062Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:18.062Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:27.939Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:27.939Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:37.881Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:37.881Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:47.210Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:47.210Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:57.132Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:05:57.132Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:07.165Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:07.165Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:17.157Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:17.157Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:27.124Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:27.124Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:37.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:37.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:47.598Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:47.599Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:57.614Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:06:57.614Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:07.207Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:07.207Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:17.194Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:17.194Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:27.470Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:27.470Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:07:28.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:07:37.138Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:37.138Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:48.515Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:48.515Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:57.252Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:07:57.252Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:07.608Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:07.608Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:17.198Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:17.199Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:27.219Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:27.219Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:38.216Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:38.216Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:47.457Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:47.457Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:57.655Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:08:57.655Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:07.645Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:07.645Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:17.852Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:17.853Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:27.323Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:27.323Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:37.366Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:37.366Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:48.456Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:48.456Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:57.469Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:09:57.469Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:08.618Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:08.618Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:17.162Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:17.162Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:27.200Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:27.200Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:37.208Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:37.208Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:47.667Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:47.667Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:57.616Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:10:57.616Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:07.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:07.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:17.186Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:17.186Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:27.351Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:27.351Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:37.158Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:37.158Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:47.172Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:47.172Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:57.327Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:11:57.327Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:07.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:07.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:17.153Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:17.153Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:27.295Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:27.295Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:12:28.834Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:12:37.573Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:37.573Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:47.172Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:47.172Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:57.277Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:12:57.277Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:07.130Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:07.131Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:17.200Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:17.200Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:27.190Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:27.190Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:37.235Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:37.235Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:47.131Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:47.131Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:57.174Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:13:57.174Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:07.162Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:07.162Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:17.151Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:17.151Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:27.473Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:27.474Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:37.553Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:37.553Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:47.202Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:47.202Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:57.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:14:57.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:07.164Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:07.164Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:17.653Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:17.653Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:27.602Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:27.602Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:37.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:37.180Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:47.157Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:47.157Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:57.146Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:15:57.146Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:07.120Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:07.120Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:17.132Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:17.132Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:27.163Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:27.163Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:37.143Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:37.143Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:47.307Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:47.307Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:57.161Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:16:57.161Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:07.479Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:07.479Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:17.182Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:17.182Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:27.303Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:27.303Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:17:28.835Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:17:37.633Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:37.633Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:47.142Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:47.142Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:57.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:17:57.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:07.214Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:07.214Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:17.187Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:17.187Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:27.206Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:27.206Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:37.259Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:37.259Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:47.152Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:47.152Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:57.621Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:18:57.621Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:07.376Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:07.376Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:17.398Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:17.398Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:27.502Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:27.502Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:37.116Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:37.116Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:47.141Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:47.141Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:57.142Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:19:57.143Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:07.743Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:07.743Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:17.181Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:17.181Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:27.146Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:27.147Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:37.239Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:37.239Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:47.142Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:47.142Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:57.148Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:20:57.148Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:07.163Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:07.163Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:17.239Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:17.239Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:27.296Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:27.296Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:37.240Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:37.240Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:47.184Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:47.184Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:57.174Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:21:57.174Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:07.180Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:07.180Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:17.170Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:17.171Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:27.190Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:27.190Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:22:28.836Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:22:37.833Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:37.833Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:47.621Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:47.621Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:57.150Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:22:57.150Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:07.205Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:07.205Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:17.231Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:17.231Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:27.972Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:27.972Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:37.236Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:37.237Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:47.207Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:47.207Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:57.263Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:23:57.263Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:07.249Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:07.249Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:17.209Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:17.209Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:27.253Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:27.253Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:37.306Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:37.306Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:47.222Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:47.222Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:57.234Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:24:57.234Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:07.747Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:07.747Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:17.472Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:17.472Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:27.200Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:27.200Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:37.245Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:37.245Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:47.380Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:47.380Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:57.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:25:57.179Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:07.288Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:07.288Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:17.325Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:17.325Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:27.211Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:27.211Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:37.189Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:37.189Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:47.318Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:47.318Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:57.787Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:26:57.787Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:07.245Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:07.245Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:17.836Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:17.836Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:27.617Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:27.617Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:27:28.836Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:27:37.413Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:37.413Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:47.318Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:47.318Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:57.292Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:27:57.292Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:07.316Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:07.316Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:17.656Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:17.656Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:27.331Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:27.332Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:37.228Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:37.228Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:47.385Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:47.385Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:57.572Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:28:57.572Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:07.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:07.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:17.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:17.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:27.118Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:27.118Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:37.191Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:37.191Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:47.590Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:47.590Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:57.591Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:29:57.591Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:07.177Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:07.177Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:17.145Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:17.145Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:28.464Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:28.464Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:37.186Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:37.186Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:47.739Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:47.739Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:57.402Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:30:57.402Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:07.920Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:07.920Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:17.831Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:17.831Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:28.494Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:28.494Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:37.879Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:37.879Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:47.268Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:47.268Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:57.406Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:31:57.406Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:07.244Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:07.244Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:17.146Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:17.146Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:27.276Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:27.276Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:32:28.836Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:32:37.551Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:37.551Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:47.301Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:47.301Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:57.283Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:32:57.283Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:07.161Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:07.161Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:17.241Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:17.242Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:27.356Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:27.356Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:37.306Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:37.306Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:47.523Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:47.524Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:57.227Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:33:57.227Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:07.271Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:07.271Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:17.178Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:17.178Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:27.555Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:27.555Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:37.353Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:37.353Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:47.242Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:47.243Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:57.335Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:34:57.335Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:07.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:07.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:17.761Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:17.761Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:27.506Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:27.506Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:39.075Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:39.075Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:49.250Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:49.250Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:57.260Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:35:57.260Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:07.336Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:07.336Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:17.360Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:17.360Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:27.511Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:27.511Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:37.305Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:37.305Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:47.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:47.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:57.680Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:36:57.680Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:07.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:07.175Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:17.493Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:17.493Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:27.192Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:27.192Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:37:28.836Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:37:37.856Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:37.856Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:47.832Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:47.832Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:57.268Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:37:57.268Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:07.246Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:07.246Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:17.575Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:17.575Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:27.973Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:27.973Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:37.333Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:37.333Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:47.957Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:47.958Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:57.229Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:38:57.229Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:07.603Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:07.603Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:17.984Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:17.984Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:27.260Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:27.260Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:37.415Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:37.415Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:47.413Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:47.413Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:57.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:39:57.320Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:07.330Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:07.331Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:17.187Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:17.187Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:27.914Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:27.914Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:37.337Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:37.338Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:47.700Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:47.700Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:57.708Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:40:57.708Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:07.209Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:07.209Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:17.653Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:17.653Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:27.249Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:27.249Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:37.171Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:37.171Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:47.293Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:47.293Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:57.217Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:41:57.218Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:07.231Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:07.231Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:17.277Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:17.277Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:27.558Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:27.558Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:42:28.836Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:42:37.544Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:37.544Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:47.705Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:47.705Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:57.314Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:42:57.315Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:07.813Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:07.813Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:17.635Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:17.635Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:28.371Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:28.371Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:37.287Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:37.287Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:48.344Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:48.344Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:57.355Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:43:57.355Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:07.677Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:07.677Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:17.871Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:17.871Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:27.907Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:27.907Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:37.206Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:37.206Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:47.675Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:47.675Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:57.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:44:57.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:07.691Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:07.691Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:17.829Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:17.829Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:27.629Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:27.629Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:37.602Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:37.602Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:47.328Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:47.328Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:57.213Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:45:57.213Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:07.432Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:07.432Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:17.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:17.212Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:27.309Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:27.309Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:37.433Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:37.433Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:47.763Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:47.763Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:57.365Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:46:57.365Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:08.049Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:08.049Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:17.217Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:17.218Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:27.266Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:27.266Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-03-19T19:47:28.836Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-03-19T19:47:37.532Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:37.532Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:47.500Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - msg: TypeError: undefined is not an object (evaluating '(base=this.utilEnviroment.getReactCalls()).reloadOnDayChange')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-03-19T19:47:47.500Z] Session [71740c50-49c0-11e9-ac7d-1ff3f63c0e67] - page.onError - stack:
+  try_reload (undefined:1)
+  (anonymous function) (:1)
+
+  phantomjs://platform/console++.js:263 in error
