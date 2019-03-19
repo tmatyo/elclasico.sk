@@ -9,39 +9,32 @@
 
 from selenium import webdriver as wd
 from bs4 import BeautifulSoup as bs
-# import MySQLdb as mysql
-# import sys
 import json
 
 # things
-url = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
+scheduleUrl = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
+fixtureUrl = "https://www.flashscore.sk/zapas/OzulYnYD/#h2h;overall"
 schedule = []
+fixtures = []
 target = "Real Madrid"
 
-# db
-# host = "127.0.0.1"
-# user = "simba"
-# password = "ugarak"
-# db = "elclasico"
+def viewSource(url):
+	# make the request headless
+	options = wd.ChromeOptions()
+	options.add_argument('headless')
+	driver = wd.Chrome(chrome_options=options)
 
-# if(mysql.Connection(host=host,user=user,passwd=password,db=db)):
-# 	print("Connection OK")
+	# actually get the page
+	driver.get(url)
 
-# sys.exit()
+	# get the html from the page with a simple JS command
+	web = driver.execute_script("return document.documentElement.outerHTML")
 
-# make the request headless
-options = wd.ChromeOptions()
-options.add_argument('headless')
-driver = wd.Chrome(chrome_options=options)
+	# import the HTML into Soup
+	return bs(web, 'html.parser')
 
-# actually get the page
-driver.get(url)
-
-# get the html from the page with a simple JS command
-web = driver.execute_script("return document.documentElement.outerHTML")
-
-# import the HTML into Soup
-tree = bs(web, 'html.parser')
+# PART 1: get schedule
+tree = viewSource(scheduleUrl)
 
 # find the schedule
 result = tree.findAll('tr', attrs={'class':'stage-scheduled'})
@@ -59,7 +52,27 @@ for i in result:
 			'away_team': away
 		})
 
+# write schedule to file
 with open('schedule.json', 'wb') as of:
 	json.dump(schedule, of)
 
-print(schedule)
+# PART 2: get fixtures
+tree = viewSource(fixtureUrl)
+
+# get the table with the fixtures
+result = tree.find('table', attrs={'class':'h2h_mutual'})
+result = result.findAll('tr', attrs={'class':'highlight'})
+
+for i in result:
+	teams = i.findAll('td', attrs={'class':'name'})
+	fixtures.append({
+		'time': i.find('span', attrs={'class':'date'}).getText().encode('utf-8'),
+		'home_team': teams[0].getText().encode('utf-8'),
+		'away_team': teams[1].getText().encode('utf-8'),
+		'score': i.find('span', attrs={'class':'score'}).getText().encode('utf-8')
+	})
+
+with open('fixtures.json', 'wb') as of:
+	json.dump(fixtures, of)
+
+print(fixtures)
