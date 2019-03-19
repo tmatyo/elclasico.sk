@@ -9,10 +9,25 @@
 
 from selenium import webdriver as wd
 from bs4 import BeautifulSoup as bs
+# import MySQLdb as mysql
+# import sys
+import json
 
+# things
 url = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
 schedule = []
-target = "Valencia"
+target = "Real Madrid"
+
+# db
+# host = "127.0.0.1"
+# user = "simba"
+# password = "ugarak"
+# db = "elclasico"
+
+# if(mysql.Connection(host=host,user=user,passwd=password,db=db)):
+# 	print("Connection OK")
+
+# sys.exit()
 
 # make the request headless
 options = wd.ChromeOptions()
@@ -36,11 +51,15 @@ for i in result:
 	home = i.find('span', attrs={'class':'padr'}).getText().encode('utf-8')
 	away = i.find('span', attrs={'class':'padl'}).getText().encode('utf-8')
 
+	# if its elclasico, save data
 	if(home == target or away == target):
 		schedule.append({
 			'time': i.find('td', attrs={'class':'time'}).getText().encode('utf-8'),
 			'home_team': home,
 			'away_team': away
 		})
+
+with open('schedule.json', 'wb') as of:
+	json.dump(schedule, of)
 
 print(schedule)
