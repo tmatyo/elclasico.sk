@@ -16,21 +16,20 @@ export default class Schedule extends Component {
 	}
 
 	render() {
-		console.log("Schedule: ", this.state.sc);
 		return (
-			<div id="schedule">
-				<h2>Schedule</h2>
+			<div id="schedules">
+				<h2>Bude sa hrať</h2>
 				<table>
 					<tbody>
 						<tr>
-							<th>Dátum</th>
+							<th className="center-text">Dátum</th>
 							<th>Domáci</th>
 							<th>Hosťia</th>
 						</tr>
 						{this.state.sc.map(row => {
 							return (
 							<tr key={row.time} className="upcoming-match">
-								<td>{row.time}</td>
+								<td className="center-text">{row.time}</td>
 								<td>{row.home_team}</td>
 								<td>{row.away_team}</td>
 							</tr>

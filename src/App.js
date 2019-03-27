@@ -10,16 +10,16 @@ import Fixtures from './Fixtures'
 export default class App extends Component {
   	render() {
     	return (
-      		<div className="App">
+      		<div id="app">
 			  	<Container fluid="true">
 					<Row>
-						<Col xs={12} md={4} lg={6}>
+						<Col xs={12} md={4} xl={6}>
         					<Countdown />
 						</Col>	
-						<Col xs={12} md={4} lg={3}>
+						<Col xs={12} md={4} xl={3}>
         					<Schedule />
 						</Col>	
-						<Col xs={12} md={4} lg={3}>
+						<Col xs={12} md={4} xl={3}>
         					<Fixtures />
 						</Col>	
 					</Row>  

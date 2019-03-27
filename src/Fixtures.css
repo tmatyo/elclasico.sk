@@ -1,0 +1,8 @@
+/* #app #fixtures .scrollable {
+    height: calc(100%-38px);
+    overflow-y: scroll;
+} */
+
+#app #fixtures .center-text {
+    text-align: center;
+}

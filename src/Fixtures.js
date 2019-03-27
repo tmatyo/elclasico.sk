@@ -16,30 +16,31 @@ export default class Fixtures extends Component {
 	}
 
 	render() {
-		console.log("Fixtures: ", this.state.fx);
 		return (
 			<div id="fixtures">
-				<h2>Fixtures</h2>
-				<table>
-					<tbody>
-						<tr>
-							<th>Dátum</th>
-							<th>Domáci</th>
-							<th>Hosťia</th>
-							<th>Skóre</th>
-						</tr>
-						{this.state.fx.map(row => {
-							return (
-							<tr key={row.time} className="played-match">
-								<td>{row.time}</td>
-								<td>{row.home_team}</td>
-								<td>{row.away_team}</td>
-								<td>{row.score}</td>
+				<h2>Hralo sa</h2>
+				<div className="scrollable">
+					<table>
+						<tbody>
+							<tr>
+								<th className="center-text">Dátum</th>
+								<th>Domáci</th>
+								<th>Hosťia</th>
+								<th className="center-text">Skóre</th>
 							</tr>
-							)
-						})}
-					</tbody>
-				</table>
+								{this.state.fx.map(row => {
+									return (
+									<tr key={row.time} className="played-match">
+										<td className="center-text">{row.time}</td>
+										<td>{row.home_team}</td>
+										<td>{row.away_team}</td>
+										<td className="center-text">{row.score}</td>
+									</tr>
+									)
+								})}
+						</tbody>
+					</table>
+				</div>
 			</div>
 		);
 	}

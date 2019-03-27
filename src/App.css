@@ -1,0 +1,32 @@
+#app {
+  background-color: #34404e;
+  color: #eee;
+  padding: 10px;
+  overflow: hidden;
+}
+
+#app h1, #app h2 {
+  text-transform: uppercase;
+  color: #778aa2;
+}
+
+#app #fixtures, #app #schedules {
+  font-size: 15px;
+}
+
+#app #fixtures table, #app #schedules table {
+  width: 100%;
+}
+
+#app #fixtures tr:nth-child(even), #app #schedules tr:nth-child(even) {
+  background-color: #778aa2;
+}
+
+#app #fixtures th, #app #schedules th {
+  text-transform: uppercase;
+  color: #55a5ff;
+}
+
+#app #fixtures th, #app #schedules th, #app #fixtures td, #app #schedules td {
+  padding: 2px;
+}
