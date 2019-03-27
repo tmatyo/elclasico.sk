@@ -3,7 +3,7 @@ import './Schedule.css';
 
 import sc from './schedule.json';
 
-class Schedule extends Component {
+export default class Schedule extends Component {
 	constructor() {
 		super();
 		this.state = {
@@ -15,16 +15,21 @@ class Schedule extends Component {
 		this.setState({sc:sc});
 	}
 
-	render(){
-		console.log(this.state.sc);
+	render() {
+		console.log("Schedule: ", this.state.sc);
 		return (
 			<div id="schedule">
 				<h2>Schedule</h2>
 				<table>
 					<tbody>
+						<tr>
+							<th>Dátum</th>
+							<th>Domáci</th>
+							<th>Hosťia</th>
+						</tr>
 						{this.state.sc.map(row => {
 							return (
-							<tr key="row.time" className="upcoming-match">
+							<tr key={row.time} className="upcoming-match">
 								<td>{row.time}</td>
 								<td>{row.home_team}</td>
 								<td>{row.away_team}</td>
@@ -37,5 +42,3 @@ class Schedule extends Component {
 		);
 	}
 }
-
-export default Schedule;
