@@ -20,15 +20,18 @@ export default class Countdown extends Component{
 			date = date.replace(":", ".");
 			date = date.split(".");
 
-			let to = new Date(from.getFullYear(), date[1] - 1, date[0], date[2], date[3]);	
-	
-			this.startCountdown(from, to);
+			let to = new Date(from.getFullYear(), date[1] - 1, date[0], date[2], date[3]);
+			let cd = to - from;	
+			
+			if (cd < 0) {
+				clearInterval(t);
+			}
+			
+			this.startCountdown(cd);
 		}, 1000);		
 	}
 
-	startCountdown(from, to) {
-
-		let cd = to - from;
+	startCountdown(cd) {
 		let days = 1000 * 60 * 60 * 24;
 		let hours = 1000 * 60 * 60;
 		let minutes = 1000 * 60;
@@ -40,10 +43,6 @@ export default class Countdown extends Component{
 			minutes: Math.floor(cd % hours / minutes),
 			seconds: Math.floor(cd % minutes / seconds)
 		});
-
-		console.log('FROM', from);
-		console.log('TO', to);
-		console.log(this.state.sc[0].time);
 	}
 
 	render() {
