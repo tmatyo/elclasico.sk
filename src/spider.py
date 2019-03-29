@@ -10,6 +10,7 @@
 from selenium import webdriver as wd
 from bs4 import BeautifulSoup as bs
 import json
+import re
 
 # things
 scheduleUrl = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
@@ -91,7 +92,8 @@ for i in result:
 		'away_team': away_team,
 		'event': i.find('td', attrs={'class':'flag_td'}).get('title').encode('utf-8'),
 		'score': score,
-		'winner': winner
+		'winner': winner,
+		'link': "https://www.flashscore.sk/zapas/" + re.findall("'(\w+)'", i.get('onclick').encode('utf-8'))[0][4:]
 	})
 
 # write fixtures to file
