@@ -22,7 +22,7 @@ export default class Fixtures extends Component {
 				<div className="timeline">
 					{this.state.fx.map((row, index) => {
 						return (
-							<div key={index} className="timeline-item" >
+							<div key={index} className={"timeline-item " + row.winner} >
 								<div className={index % 2 ? "even-line" : ""}>
 									{index % 2 ? <span className="time">{row.time}</span> : ''}
 								</div>
@@ -36,29 +36,6 @@ export default class Fixtures extends Component {
 						)
 					})}
 				</div>
-
-				{/* <div className="scrollable">
-					<table>
-						<tbody>
-							<tr>
-								<th className="center-text">Dátum</th>
-								<th>Domáci</th>
-								<th>Hosťia</th>
-								<th className="center-text">Skóre</th>
-							</tr>
-								{this.state.fx.map(row => {
-									return (
-									<tr key={row.time} className="played-match">
-										<td className="center-text">{row.time}</td>
-										<td>{row.home_team}</td>
-										<td>{row.away_team}</td>
-										<td className="center-text">{row.score}</td>
-									</tr>
-									)
-								})}
-						</tbody>
-					</table>
-				</div> */}
 			</div>
 		);
 	}

@@ -65,13 +65,35 @@ result = result.findAll('tr', attrs={'class':'highlight'})
 
 for i in result:
 	teams = i.findAll('td', attrs={'class':'name'})
+	home_team = teams[0].getText().encode('utf-8')
+	away_team = teams[1].getText().encode('utf-8')
+
+	# parsing score to get winner
+	score = i.find('span', attrs={'class':'score'}).getText().encode('utf-8')
+	score_meta = score[:5]
+	score_home = score_meta[:1]
+	score_away = score_meta[-1:]
+
+	# get winner
+	if(int(score_home) > int(score_away)):
+		winner = home_team
+	elif(int(score_home) < int(score_away)):
+		winner = away_team
+	elif(int(score_home) == int(score_away)):
+		winner = "remiza"
+	else:
+		winner = 0
+
+	# putting together fixtures data
 	fixtures.append({
 		'time': i.find('span', attrs={'class':'date'}).getText().encode('utf-8'),
-		'home_team': teams[0].getText().encode('utf-8'),
-		'away_team': teams[1].getText().encode('utf-8'),
-		'score': i.find('span', attrs={'class':'score'}).getText().encode('utf-8')
+		'home_team': home_team,
+		'away_team': away_team,
+		'score': score,
+		'winner': winner
 	})
 
+# write fixtures to file
 with open('fixtures.json', 'wb') as of:
 	json.dump(fixtures, of)
 
