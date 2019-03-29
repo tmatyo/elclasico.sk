@@ -28,7 +28,7 @@ export default class Fixtures extends Component {
 				<div className="timeline">
 					{this.state.fx.map((row, index) => {
 						return (
-							<div key={index} className={"timeline-item " + row.winner} >
+							<div key={index} className={"timeline-item " + row.winner} title={row.event}>
 								<div className={index % 2 ? "even-line" : ""}>
 									{index % 2 ? <span className="time">{row.time}</span> : ''}
 								</div>
