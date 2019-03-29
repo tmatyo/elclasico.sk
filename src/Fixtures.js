@@ -15,6 +15,12 @@ export default class Fixtures extends Component {
 		this.setState({fx:fx});console.log(fx);
 	}
 
+	goTo(link) {
+		window.open(link, 'noopener');
+
+		this.goTo = this.goTo.bind(this);
+	}
+
 	render() {
 		return (
 			<div id="fixtures">
@@ -26,7 +32,7 @@ export default class Fixtures extends Component {
 								<div className={index % 2 ? "even-line" : ""}>
 									{index % 2 ? <span className="time">{row.time}</span> : ''}
 								</div>
-								<div className={"timeline-fixture " + (index % 2 ? "even" : "odd")} >
+								<div className={"timeline-fixture " + (index % 2 ? "even" : "odd")} onClick={() => this.goTo(row.link)}>
 									<span>{row.home_team}</span> <span>{row.score}</span> <span>{row.away_team}</span>
 								</div>
 								<div className={index % 2 ? "" : "odd-line"}>

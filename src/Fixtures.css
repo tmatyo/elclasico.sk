@@ -19,6 +19,11 @@
     left: 50%;
 }
 
+#app #fixtures .timeline a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
 #app #fixtures .timeline .timeline-item {
     display: grid;
     grid-template-columns: 20% auto 20%;
@@ -31,6 +36,9 @@
     line-height: 90px;
     font-size: 20px;
     border-radius: 3px;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 /* #app #fixtures .timeline .timeline-item.Real.Madrid .timeline-fixture {
@@ -52,6 +60,8 @@
     height: 1px;
     position: relative;
     margin-top: 160px;
+    color: #fff;
+    text-decoration: none;
 }
 
 #app #fixtures .timeline .timeline-item .odd-line {
