@@ -51,16 +51,16 @@
 #app #fixtures .timeline .timeline-item .odd-line .time, #app #fixtures .timeline .timeline-item .even-line .time  {
     position: absolute;
     background-color: #34404e;
-    padding: 5px;
+    padding: 5px 10px;
     border: 1px dashed #778aa2;
     top: -17px;
-
+    border-radius: 3px;
 }
 
 #app #fixtures .timeline .timeline-item .odd-line .time {
-    right: -37px;
+    right: -41px;
 }
 
 #app #fixtures .timeline .timeline-item .even-line .time {
-    left: -37px;
+    left: -41px;
 }
