@@ -11,19 +11,9 @@ export default class App extends Component {
   	render() {
     	return (
       		<div id="app">
-			  	<Container fluid="true">
-					<Row>
-						<Col xs={12} md={4} xl={6}>
-        					<Countdown />
-						</Col>	
-						<Col xs={12} md={4} xl={3}>
-        					<Schedule />
-						</Col>	
-						<Col xs={12} md={4} xl={3}>
-        					<Fixtures />
-						</Col>	
-					</Row>  
-				</Container>
+        		<Countdown />
+        		{/* <Schedule /> */}
+        		<Fixtures />
       		</div>
     	);
   	}

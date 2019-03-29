@@ -1,8 +1,39 @@
-/* #app #fixtures .scrollable {
-    height: calc(100%-38px);
-    overflow-y: scroll;
+#app #fixtures .timeline {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-auto-rows: 230px;
+    position: relative;
+}
+
+#app #fixtures .timeline:before {
+    content: "";
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    background-color: #778aa2;
+    left: 50%;
+}
+
+#app #fixtures .timeline .timeline-item {
+    margin: 0 auto;
+}
+
+#app #fixtures .timeline .timeline-item .timeline-fixture {
+    background-color: #778aa2;
+    padding: 20px;
+}
+
+#app #fixtures .timeline .timeline-item .timeline-fixture.odd {
+    margin-top: 50px;
+}
+
+/* #app #fixtures .timeline .timeline-item .timeline-fixture.odd:after {
+    content: "";
+    position: absolute;
+    border-bottom: 1px dashed #778aa2;
+    width: 100px;
 } */
 
-#app #fixtures .center-text {
-    text-align: center;
+#app #fixtures .timeline .timeline-item .timeline-fixture.even {
+    margin-top: 160px;
 }
