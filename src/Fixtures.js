@@ -24,13 +24,13 @@ export default class Fixtures extends Component {
 						return (
 							<div key={index} className="timeline-item" >
 								<div className={index % 2 ? "even-line" : ""}>
-
+									{index % 2 ? <span className="time">{row.time}</span> : ''}
 								</div>
 								<div className={"timeline-fixture " + (index % 2 ? "even" : "odd")} >
 									<span>{row.home_team}</span> <span>{row.score}</span> <span>{row.away_team}</span>
 								</div>
 								<div className={index % 2 ? "" : "odd-line"}>
-
+									{index % 2 ? '' : <span className="time">{row.time}</span>}
 								</div>
 							</div>
 						)

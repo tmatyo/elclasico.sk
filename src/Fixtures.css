@@ -30,6 +30,7 @@
     height: 90px;
     line-height: 90px;
     font-size: 20px;
+    border-radius: 3px;
 }
 
 #app #fixtures .timeline .timeline-item .timeline-fixture.even {
@@ -39,9 +40,27 @@
 #app #fixtures .timeline .timeline-item .even-line, #app #fixtures .timeline .timeline-item .odd-line {
     border: 1px dashed #778aa2;
     height: 1px;
+    position: relative;
     margin-top: 160px;
 }
 
 #app #fixtures .timeline .timeline-item .odd-line {
     margin-top: 45px;
+}
+
+#app #fixtures .timeline .timeline-item .odd-line .time, #app #fixtures .timeline .timeline-item .even-line .time  {
+    position: absolute;
+    background-color: #34404e;
+    padding: 5px;
+    border: 1px dashed #778aa2;
+    top: -17px;
+
+}
+
+#app #fixtures .timeline .timeline-item .odd-line .time {
+    right: -37px;
+}
+
+#app #fixtures .timeline .timeline-item .even-line .time {
+    left: -37px;
 }
