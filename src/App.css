@@ -8,6 +8,7 @@
 #app h1, #app h2 {
   text-transform: uppercase;
   color: #778aa2;
+  text-align: center;
 }
 
 #app #fixtures, #app #schedules {

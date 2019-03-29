@@ -1,8 +1,13 @@
+#app #fixtures {
+    margin-top: 50px;
+}
+
 #app #fixtures .timeline {
     display: grid;
     grid-template-columns: 50% 50%;
     grid-auto-rows: 230px;
     position: relative;
+    margin-top: 30px;
 }
 
 #app #fixtures .timeline:before {
@@ -10,30 +15,33 @@
     position: absolute;
     width: 1px;
     height: 100%;
-    background-color: #778aa2;
+    border: 1px dashed #778aa2;
     left: 50%;
 }
 
 #app #fixtures .timeline .timeline-item {
-    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 20% auto 20%;
 }
 
 #app #fixtures .timeline .timeline-item .timeline-fixture {
     background-color: #778aa2;
-    padding: 20px;
+    text-align: center;
+    height: 90px;
+    line-height: 90px;
+    font-size: 20px;
 }
-
-#app #fixtures .timeline .timeline-item .timeline-fixture.odd {
-    margin-top: 50px;
-}
-
-/* #app #fixtures .timeline .timeline-item .timeline-fixture.odd:after {
-    content: "";
-    position: absolute;
-    border-bottom: 1px dashed #778aa2;
-    width: 100px;
-} */
 
 #app #fixtures .timeline .timeline-item .timeline-fixture.even {
+    margin-top: 115px;
+}
+
+#app #fixtures .timeline .timeline-item .even-line, #app #fixtures .timeline .timeline-item .odd-line {
+    border: 1px dashed #778aa2;
+    height: 1px;
     margin-top: 160px;
+}
+
+#app #fixtures .timeline .timeline-item .odd-line {
+    margin-top: 45px;
 }
