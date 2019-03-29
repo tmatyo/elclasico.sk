@@ -89,6 +89,7 @@ for i in result:
 		'time': i.find('span', attrs={'class':'date'}).getText().encode('utf-8'),
 		'home_team': home_team,
 		'away_team': away_team,
+		'event': i.find('td', attrs={'class':'flag_td'}).get('title').encode('utf-8'),
 		'score': score,
 		'winner': winner
 	})

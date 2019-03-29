@@ -33,6 +33,16 @@
     border-radius: 3px;
 }
 
+/* #app #fixtures .timeline .timeline-item.Real.Madrid .timeline-fixture {
+    background-color: #fff;
+    color: #00529F;
+}
+
+#app #fixtures .timeline .timeline-item.Barcelona .timeline-fixture {
+    background-color: #004D98;
+    color: #A50044;
+} */
+
 #app #fixtures .timeline .timeline-item .timeline-fixture.even {
     margin-top: 115px;
 }
