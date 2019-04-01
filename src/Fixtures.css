@@ -40,6 +40,26 @@
     text-decoration: none;
     cursor: pointer;
 }
+@media (max-width: 920px) {
+
+    #app #fixtures .timeline .timeline-item.odd {
+        grid-template-columns: 0 auto 30%;
+    }
+
+    #app #fixtures .timeline .timeline-item.even {
+        grid-template-columns: 30% auto 0;
+    }
+
+    #app #fixtures .timeline .timeline-item .timeline-fixture {
+        line-height: 20px;
+        font-size: 15px;
+        padding: 15px;
+    }
+
+    #app #fixtures .timeline .timeline-item .timeline-fixture span {
+        display: block;
+    }
+}
 
 /* #app #fixtures .timeline .timeline-item.Real.Madrid .timeline-fixture {
     background-color: #fff;
