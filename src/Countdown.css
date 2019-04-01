@@ -1,6 +1,19 @@
 #countdown h1 {
     text-align: center;
-    margin-bottom: 50px; /* temporary */
+    margin: 50px auto;
+}
+
+#countdown .banner-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));;
+    width: 100%;
+    margin: 30px auto;
+    text-align: center;
+}
+
+#countdown .banner-grid .banner-home h2, #countdown .banner-grid .banner-away h2 {
+    color: #fff;
+    font-weight: bold;
 }
 
 #countdown .cd-grid {

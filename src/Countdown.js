@@ -7,13 +7,16 @@ export default class Countdown extends Component{
 	constructor() {
 		super();
 		this.state = {
-			sc: [], days: 0, hours: 0, minutes: 0, seconds: 0
+			days: 0, hours: 0, minutes: 0, seconds: 0, sc: [{
+				home_team: "-",
+				away_team: "-"
+			}]
 		};
 	}
 
 	componentDidMount() {
 		this.setState({sc:sc});
-
+		
 		var t = setInterval(() => {
 			let from = new Date();
 			let date = this.state.sc[0].time.replace(" ", "");
@@ -25,6 +28,7 @@ export default class Countdown extends Component{
 			
 			if (cd < 0) {
 				clearInterval(t);
+				return;
 			}
 			
 			this.startCountdown(cd);
@@ -35,8 +39,8 @@ export default class Countdown extends Component{
 		let days = 1000 * 60 * 60 * 24;
 		let hours = 1000 * 60 * 60;
 		let minutes = 1000 * 60;
-		let seconds = 1000
-
+		let seconds = 1000;
+		
 		this.setState({
 			days: Math.floor(cd / days),
 			hours: Math.floor(cd % days / hours),
@@ -51,6 +55,17 @@ export default class Countdown extends Component{
 				<Container>
 					<Row>
 						<h1>Nasledujúce El Clasico</h1>
+						<div className="banner-grid">
+							<div className="banner-home">
+								<h2>{this.state.sc[0].home_team}</h2>
+							</div>
+							<div>
+								<h2>VS</h2>
+							</div>
+							<div className="banner-away">
+								<h2>{this.state.sc[0].away_team}</h2>
+							</div>
+						</div>
 						<div className="cd-grid">
 							<div className="cd-cell">
 								<div className="cd-number">{this.state.days}</div>
