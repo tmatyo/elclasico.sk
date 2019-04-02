@@ -12,7 +12,7 @@ export default class Fixtures extends Component {
 	}
 
 	componentDidMount() {
-		this.setState({fx:fx});console.log(fx);
+		this.setState({fx:fx});
 	}
 
 	goTo(link) {

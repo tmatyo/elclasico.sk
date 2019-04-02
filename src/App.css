@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Baloo+Chettan|Quicksand|Righteous');
+
+html, body {
+  font-family: 'Quicksand', sans-serif;
+  /* font-family: 'Righteous', cursive; */
+  /* font-family: 'Baloo Chettan', cursive; */
+  /* font-family: 'Alfa Slab One', cursive; */
+}
+
 #app {
   background-color: #e7f6f6;
   color: #ccc;

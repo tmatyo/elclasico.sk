@@ -59,14 +59,14 @@ export default class Countdown extends Component{
 						<h1>Nasledujúce El Clasico</h1>
 						<div className="banner-grid">
 							<div className="banner-home">
-								<img width="300" src={this.state.sc[0].home_team == "Barcelona" ? barca : real} />
+								<img width="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].home_team} />
 								<h2>{this.state.sc[0].home_team}</h2>
 							</div>
 							<div className="banner-vs">
 								<h2>VS</h2>
 							</div>
 							<div className="banner-away">
-								<img width="300" src={this.state.sc[0].home_team == "Barcelona" ? barca : real} />
+								<img width="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].away_team} />
 								<h2>{this.state.sc[0].away_team}</h2>
 							</div>
 						</div>
