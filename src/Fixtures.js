@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './Fixtures.css';
 
-import fx from './fixtures.json';
+// import fx from './fixtures.json';
 
 export default class Fixtures extends Component {
 	constructor() {
@@ -12,7 +12,9 @@ export default class Fixtures extends Component {
 	}
 
 	componentDidMount() {
-		this.setState({fx:fx});
+		//this.setState({fx:fx});
+
+		fetch('/fixtures.json').then(res => res.json()).then(res => this.setState({fx:res})).catch(error => console.log("ERROR:", error));
 	}
 
 	goTo(link) {

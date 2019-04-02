@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Container, Row } from 'react-bootstrap'
 import './Countdown.css';
-import sc from './schedule.json';
+// import sc from './schedule.json';
 import real from './Real_Madrid_CF.svg'
 import barca from './FC_Barcelona.svg'
 
@@ -17,8 +17,9 @@ export default class Countdown extends Component{
 	}
 
 	componentDidMount() {
-		this.setState({sc:sc});
-		
+		// this.setState({sc:sc});
+		fetch('/schedule.json').then(res => res.json()).then(res => this.setState({sc:res})).catch(error => console.log("ERROR:", error));
+
 		var t = setInterval(() => {
 			let from = new Date();
 			let date = this.state.sc[0].time.replace(" ", "");
