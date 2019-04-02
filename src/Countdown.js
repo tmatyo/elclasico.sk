@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import { Container, Row } from 'react-bootstrap'
 import './Countdown.css';
 import sc from './schedule.json';
+import real from './Real_Madrid_CF.svg'
+import barca from './FC_Barcelona.svg'
 
 export default class Countdown extends Component{
 	constructor() {
@@ -57,12 +59,14 @@ export default class Countdown extends Component{
 						<h1>Nasledujúce El Clasico</h1>
 						<div className="banner-grid">
 							<div className="banner-home">
+								<img width="300" src={this.state.sc[0].home_team == "Barcelona" ? barca : real} />
 								<h2>{this.state.sc[0].home_team}</h2>
 							</div>
-							<div>
+							<div className="banner-vs">
 								<h2>VS</h2>
 							</div>
 							<div className="banner-away">
+								<img width="300" src={this.state.sc[0].home_team == "Barcelona" ? barca : real} />
 								<h2>{this.state.sc[0].away_team}</h2>
 							</div>
 						</div>

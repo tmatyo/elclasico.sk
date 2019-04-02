@@ -11,9 +11,27 @@
     text-align: center;
 }
 
+#countdown .banner-grid .banner-vs {
+    padding-top: 250px;
+}
+
 #countdown .banner-grid .banner-home h2, #countdown .banner-grid .banner-away h2 {
-    color: #fff;
+    margin-top: 30px;
     font-weight: bold;
+}
+
+@media (max-width: 920px) {
+    #countdown .banner-grid .banner-vs {
+        padding: 0;
+    }
+
+    #countdown .banner-grid .banner-home h2, #countdown .banner-grid .banner-away h2 {
+        margin: 0;
+    }
+
+    #countdown .banner-grid img {
+        display: none;
+    }
 }
 
 #countdown .cd-grid {
@@ -22,6 +40,7 @@
     width: 100%;
     text-align: center;
     grid-gap: 5px;
+    color: #fff;
 }
 
 #countdown .cd-grid .cd-cell .cd-number {
@@ -31,12 +50,12 @@
     line-height: 100px;
     font-size: 50px;
     font-weight: bold;
-    background-color: #0a5ebd;
+    background-color: #26cdcb;
     margin-bottom: 5px;
 }
 
 #countdown .cd-grid .cd-cell .cd-desc {
-    background-color: #0a5ebd;
+    background-color: #26cdcb;
     width: 100px;
     margin: 0 auto;
     text-transform: uppercase;

@@ -15,7 +15,7 @@
     position: absolute;
     width: 1px;
     height: 100%;
-    border: 1px dashed #778aa2;
+    border: 1px dashed #24345a;
     left: 50%;
 }
 
@@ -30,7 +30,7 @@
 }
 
 #app #fixtures .timeline .timeline-item .timeline-fixture {
-    background-color: #778aa2;
+    background-color: #24345a;
     text-align: center;
     height: 90px;
     line-height: 90px;
@@ -40,6 +40,7 @@
     text-decoration: none;
     cursor: pointer;
 }
+
 @media (max-width: 920px) {
 
     #app #fixtures .timeline .timeline-item.odd {
@@ -62,13 +63,11 @@
 }
 
 /* #app #fixtures .timeline .timeline-item.Real.Madrid .timeline-fixture {
-    background-color: #fff;
-    color: #00529F;
+    background-image: url('./Real_Madrid_CF.svg');
 }
 
 #app #fixtures .timeline .timeline-item.Barcelona .timeline-fixture {
-    background-color: #004D98;
-    color: #A50044;
+    background-image: url('./FC_Barcelona.svg');
 } */
 
 #app #fixtures .timeline .timeline-item .timeline-fixture.even {
@@ -76,7 +75,7 @@
 }
 
 #app #fixtures .timeline .timeline-item .even-line, #app #fixtures .timeline .timeline-item .odd-line {
-    border: 1px dashed #778aa2;
+    border: 1px dashed #24345a;
     height: 1px;
     position: relative;
     margin-top: 160px;
@@ -90,11 +89,12 @@
 
 #app #fixtures .timeline .timeline-item .odd-line .time, #app #fixtures .timeline .timeline-item .even-line .time  {
     position: absolute;
-    background-color: #34404e;
+    background-color: #e7f6f6;
     padding: 5px 10px;
-    border: 1px dashed #778aa2;
+    border: 1px dashed #24345a;
     top: -17px;
     border-radius: 3px;
+    color: #24345a;
 }
 
 #app #fixtures .timeline .timeline-item .odd-line .time {
