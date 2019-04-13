@@ -21,6 +21,11 @@ export default class Countdown extends Component{
 		fetch('/schedule.json').then(res => res.json()).then(res => this.setState({sc:res})).catch(error => console.log("ERROR:", error));
 
 		var t = setInterval(() => {
+
+			if(this.state.sc.length === 0) {
+				return;
+			}
+
 			let from = new Date();
 			let date = this.state.sc[0].time.replace(" ", "");
 			date = date.replace(":", ".");
@@ -53,24 +58,31 @@ export default class Countdown extends Component{
 	}
 
 	render() {
+		let banner = (<div className="banner-grid">
+			<p>Nie je naplánované žiadne El clasico :(</p>
+		</div>);
+		if(this.state.sc.length > 0) {
+			banner = (<div className="banner-grid">
+				<div className="banner-home">
+					<img width="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].home_team} />
+					<h2>{this.state.sc[0].home_team}</h2>
+				</div>
+				<div className="banner-vs">
+					<h2>VS</h2>
+				</div>
+				<div className="banner-away">
+					<img width="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].away_team} />
+					<h2>{this.state.sc[0].away_team}</h2>
+				</div>
+			</div>);
+		}
+
 		return (
 			<div id="countdown">
 				<Container>
 					<Row>
 						<h1>Nasledujúce El Clasico</h1>
-						<div className="banner-grid">
-							<div className="banner-home">
-								<img width="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].home_team} />
-								<h2>{this.state.sc[0].home_team}</h2>
-							</div>
-							<div className="banner-vs">
-								<h2>VS</h2>
-							</div>
-							<div className="banner-away">
-								<img width="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].away_team} />
-								<h2>{this.state.sc[0].away_team}</h2>
-							</div>
-						</div>
+						{banner}
 						<div className="cd-grid">
 							<div className="cd-cell">
 								<div className="cd-number">{this.state.days}</div>

@@ -17,13 +17,16 @@ scheduleUrl = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
 fixtureUrl = "https://www.flashscore.sk/zapas/OzulYnYD/#h2h;overall"
 schedule = []
 fixtures = []
-target = "Real Madrid"
+#target = "Barcelona"
+target = "Valencia" #test
 
 def viewSource(url):
 	# make the request headless
 	options = wd.ChromeOptions()
 	options.add_argument('headless')
-	driver = wd.Chrome(chrome_options=options)
+	options.add_argument('no-sandbox')
+	options.add_argument('disable-dev-shm-usage')
+	driver = wd.Chrome('/usr/bin/chromedriver', chrome_options=options)
 
 	# actually get the page
 	driver.get(url)
@@ -100,4 +103,4 @@ for i in result:
 with open('fixtures.json', 'wb') as of:
 	json.dump(fixtures, of)
 
-print(fixtures)
+#print(fixtures)
