@@ -18,7 +18,8 @@ export default class Countdown extends Component{
 
 	componentDidMount() {
 		// this.setState({sc:sc});
-		fetch('/schedule.json').then(res => res.json()).then(res => this.setState({sc:res})).catch(error => console.log("ERROR:", error));
+		let v = new Date();
+		fetch('/schedule.json?v=' + v.getTime()).then(res => res.json()).then(res => this.setState({sc:res})).catch(error => console.log("ERROR:", error));
 
 		var t = setInterval(() => {
 

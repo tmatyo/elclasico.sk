@@ -13,8 +13,8 @@ export default class Fixtures extends Component {
 
 	componentDidMount() {
 		//this.setState({fx:fx});
-
-		fetch('/fixtures.json').then(res => res.json()).then(res => this.setState({fx:res})).catch(error => console.log("ERROR:", error));
+		let v = new Date();
+		fetch('/fixtures.json?v=' + v.getTime()).then(res => res.json()).then(res => this.setState({fx:res})).catch(error => console.log("ERROR:", error));
 	}
 
 	goTo(link) {
