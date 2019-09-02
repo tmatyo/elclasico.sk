@@ -25,6 +25,10 @@
         padding: 0;
     }
 
+    #countdown .banner-grid {
+        grid-template-columns: 1fr;
+    }
+
     #countdown .banner-grid .banner-home h2, #countdown .banner-grid .banner-away h2 {
         margin: 0;
     }
