@@ -64,14 +64,14 @@ export default class Countdown extends Component{
 		if(this.state.sc.length > 0) {
 			banner = (<div className="banner-grid">
 				<div className="banner-home">
-					<img width="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].home_team} />
+					<img height="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].home_team} />
 					<h2>{this.state.sc[0].home_team}</h2>
 				</div>
 				<div className="banner-vs">
 					<h2>VS</h2>
 				</div>
 				<div className="banner-away">
-					<img width="300" src={this.state.sc[0].away_team === "Barcelona" ? barca : real} alt={this.state.sc[0].away_team} />
+					<img height="300" src={this.state.sc[0].away_team === "Barcelona" ? barca : real} alt={this.state.sc[0].away_team} />
 					<h2>{this.state.sc[0].away_team}</h2>
 				</div>
 			</div>);
