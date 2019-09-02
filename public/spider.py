@@ -17,8 +17,8 @@ scheduleUrl = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
 fixtureUrl = "https://www.flashscore.sk/zapas/OzulYnYD/#h2h;overall"
 schedule = []
 fixtures = []
-#target = "Barcelona"
-target = "Valencia" #test
+target = "Barcelona"
+#target = "Valencia" #test
 
 def viewSource(url):
 	# make the request headless
@@ -41,17 +41,17 @@ def viewSource(url):
 tree = viewSource(scheduleUrl)
 
 # find the schedule
-result = tree.findAll('tr', attrs={'class':'stage-scheduled'})
+result = tree.findAll('div', attrs={'class':'event__match'})
 
 # loop through the schedule to get relevant data
 for i in result:
-	home = i.find('span', attrs={'class':'padr'}).getText().encode('utf-8')
-	away = i.find('span', attrs={'class':'padl'}).getText().encode('utf-8')
+	home = i.find('div', attrs={'class':'event__participant--home'}).getText().encode('utf-8')
+	away = i.find('div', attrs={'class':'event__participant--away'}).getText().encode('utf-8')
 
 	# if its elclasico, save data
 	if(home == target or away == target):
 		schedule.append({
-			'time': i.find('td', attrs={'class':'time'}).getText().encode('utf-8'),
+			'time': i.find('div', attrs={'class':'event__time'}).getText().encode('utf-8'),
 			'home_team': home,
 			'away_team': away
 		})

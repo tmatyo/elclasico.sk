@@ -25,3 +25,5 @@ yarn-error.log*
 backend/geckodriver.log
 backend/ghostdriver.log
 backend/ghostdriver.log
+
+public/spyder_multi.py
