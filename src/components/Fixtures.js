@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import './Fixtures.css';
-
-// import fx from './fixtures.json';
+import '../css/Fixtures.css';
 
 export default class Fixtures extends Component {
 	constructor() {

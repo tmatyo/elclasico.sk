@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import { Container, Row } from 'react-bootstrap'
-import './Countdown.css';
-// import sc from './schedule.json';
-import real from './Real_Madrid_CF.svg'
-import barca from './FC_Barcelona.svg'
+import '../css/Countdown.css';
+import real from '../svg/Real_Madrid_CF.svg'
+import barca from '../svg/FC_Barcelona.svg'
 
 export default class Countdown extends Component{
 	constructor() {
@@ -17,7 +15,6 @@ export default class Countdown extends Component{
 	}
 
 	componentDidMount() {
-		// this.setState({sc:sc});
 		let v = new Date();
 		fetch('/schedule.json?v=' + v.getTime()).then(res => res.json()).then(res => this.setState({sc:res})).catch(error => console.log("ERROR:", error));
 
@@ -58,6 +55,10 @@ export default class Countdown extends Component{
 		});
 	}
 
+	getLogo(team) {
+		return team.includes("Barcelona") ? barca : real
+	}
+
 	render() {
 		let banner = (<div className="banner-grid">
 			<p>Nie je naplánované žiadne El clasico :(</p>
@@ -65,14 +66,14 @@ export default class Countdown extends Component{
 		if(this.state.sc.length > 0) {
 			banner = (<div className="banner-grid">
 				<div className="banner-home">
-					<img height="300" src={this.state.sc[0].home_team === "Barcelona" ? barca : real} alt={this.state.sc[0].home_team} />
+					<img height="300" src={this.getLogo(this.state.sc[0].home_team)} alt={this.state.sc[0].home_team} />
 					<h2>{this.state.sc[0].home_team}</h2>
 				</div>
 				<div className="banner-vs">
 					<h2>VS</h2>
 				</div>
 				<div className="banner-away">
-					<img height="300" src={this.state.sc[0].away_team === "Barcelona" ? barca : real} alt={this.state.sc[0].away_team} />
+					<img height="300" src={this.getLogo(this.state.sc[0].away_team)} alt={this.state.sc[0].away_team} />
 					<h2>{this.state.sc[0].away_team}</h2>
 				</div>
 			</div>);
@@ -80,8 +81,8 @@ export default class Countdown extends Component{
 
 		return (
 			<div id="countdown">
-				<Container>
-					<Row>
+				<div className='container'>
+					<div className='row'>
 						<h1>Nasledujúce El Clasico</h1>
 						{banner}
 						<div className="cd-grid">
@@ -102,8 +103,8 @@ export default class Countdown extends Component{
 								<div className="cd-desc">Sekúnd</div>
 							</div>
 						</div>
-					</Row>
-				</Container>
+					</div>
+				</div>
 			</div>
 		);
 	}

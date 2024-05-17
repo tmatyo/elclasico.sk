@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Schedule.css';
+import '../css/Schedule.css';
 
 import sc from './schedule.json';
 

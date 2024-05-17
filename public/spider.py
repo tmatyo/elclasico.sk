@@ -1,6 +1,8 @@
 #
-# elclasico v2.0
-# tmatyo on 17-May-2024
+# elclasico 
+# author: tmatyo
+# v1.0 - 18-Mar-2019 
+# v2.0 - 17-May-2024
 #
 # Tool for crawling livescore.sk to get next el clasico schedule and transfermarkt for statistics
 #
