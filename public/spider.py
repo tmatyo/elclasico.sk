@@ -1,32 +1,31 @@
-
 #
-# elclasico v1.0
+# elclasico v2.0
+# tmatyo on 17-May-2024
 #
-# Tool for crawling livescore.sk to get next el clasico fixtures
-#
-# tmatyo on 18-Mar-2019
+# Tool for crawling livescore.sk to get next el clasico schedule and transfermarkt for statistics
 #
 
 from selenium import webdriver as wd
+from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup as bs
 import json
-import re
 
 # things
 scheduleUrl = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
-fixtureUrl = "https://www.flashscore.sk/zapas/OzulYnYD/#h2h;overall"
-schedule = []
-fixtures = []
+fixtureUrl = "https://www.transfermarkt.com/vergleich/vereineBegegnungen/statistik/131_418"
+userAgent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.116 Chrome/80.0.3987.116 Safari/537.36"
+ref = "https://www.google.sk/"
 target = "Barcelona"
-#target = "Valencia" #test
 
 def viewSource(url):
-	# make the request headless
+	service = Service(executable_path='/usr/local/bin/chromedriver')
 	options = wd.ChromeOptions()
 	options.add_argument('headless')
 	options.add_argument('no-sandbox')
 	options.add_argument('disable-dev-shm-usage')
-	driver = wd.Chrome('/usr/bin/chromedriver', chrome_options=options)
+	options.add_argument('user-agent=' + userAgent)
+	options.add_argument('referer=' + ref)
+	driver = wd.Chrome(service=service, options=options)
 
 	# actually get the page
 	driver.get(url)
@@ -37,70 +36,102 @@ def viewSource(url):
 	# import the HTML into Soup
 	return bs(web, 'html.parser')
 
-# PART 1: get schedule
-tree = viewSource(scheduleUrl)
+def getSchedule():
+	schedule = []
+	tree = viewSource(scheduleUrl)
 
-# find the schedule
-result = tree.findAll('div', attrs={'class':'event__match'})
+	# find the schedule
+	result = tree.findAll('div', attrs={'class':'event__match'})
 
-# loop through the schedule to get relevant data
-for i in result:
-	home = i.find('div', attrs={'class':'event__participant--home'}).getText().encode('utf-8')
-	away = i.find('div', attrs={'class':'event__participant--away'}).getText().encode('utf-8')
+	# loop through the schedule to get relevant data
+	for i in result:
+		home = i.find('div', class_='event__participant--home').getText()
+		away = i.find('div', class_='event__participant--away').getText()
 
-	# if its elclasico, save data
-	if(home == target or away == target):
-		schedule.append({
-			'time': i.find('div', attrs={'class':'event__time'}).getText().encode('utf-8'),
-			'home_team': home,
-			'away_team': away
-		})
+		# if its elclasico, save data
+		if(home.startswith(target) or away.startswith(target)):
+			schedule.append({
+				'time': i.find('div', class_='event__time').getText(),
+				'home_team': home,
+				'away_team': away
+			})
 
-# write schedule to file
-with open('schedule.json', 'wb') as of:
-	json.dump(schedule, of)
+	jsonDump('schedule', schedule)
 
-# PART 2: get fixtures
-tree = viewSource(fixtureUrl)
-
-# get the table with the fixtures
-result = tree.find('table', attrs={'class':'h2h_mutual'})
-result = result.findAll('tr', attrs={'class':'highlight'})
-
-for i in result:
-	teams = i.findAll('td', attrs={'class':'name'})
-	home_team = teams[0].getText().encode('utf-8')
-	away_team = teams[1].getText().encode('utf-8')
-
-	# parsing score to get winner
-	score = i.find('span', attrs={'class':'score'}).getText().encode('utf-8')
-	score_meta = score[:5]
-	score_home = score_meta[:1]
-	score_away = score_meta[-1:]
-
-	# get winner
-	if(int(score_home) > int(score_away)):
-		winner = home_team
-	elif(int(score_home) < int(score_away)):
-		winner = away_team
-	elif(int(score_home) == int(score_away)):
+def getWinner(homeT, homeS, awayT, awayS):
+	winner = ''
+	if(int(homeS) > int(awayS)):
+		winner = homeT
+	elif(int(homeS) < int(awayS)):
+		winner = awayT
+	elif(int(homeS) == int(awayS)):
 		winner = "remiza"
 	else:
-		winner = 0
+		winner = ''
+	
+	return winner
 
-	# putting together fixtures data
-	fixtures.append({
-		'time': i.find('span', attrs={'class':'date'}).getText().encode('utf-8'),
-		'home_team': home_team,
-		'away_team': away_team,
-		'event': i.find('td', attrs={'class':'flag_td'}).get('title').encode('utf-8'),
-		'score': score_meta,
-		'winner': winner,
-		'link': "https://www.flashscore.sk/zapas/" + re.findall("'(\w+)'", i.get('onclick').encode('utf-8'))[1][4:]
+def getStats(line):
+	stats = []
+	stats.append({
+		'matches': line[0].getText(),
+		'barca': line[1].getText(),
+		'barca_goals': line[4].getText().split(':')[0],
+		'draw': line[2].getText(),
+		'real': line[3].getText(),
+		'real_goals': line[4].getText().split(':')[1],
+		'avg_attendance': line[5].getText()
 	})
+	
+	jsonDump('stats', stats)
 
-# write fixtures to file
-with open('fixtures.json', 'wb') as of:
-	json.dump(fixtures, of)
+def getFixtures():
+	fixtures = []
+	tree = viewSource(fixtureUrl)
+	result = tree.findAll('tr')
 
-#print(fixtures)
+	for i in result:
+		cells = i.findAll('td')
+
+		if(len(cells) == 6):
+			getStats(cells)
+		
+		if(len(cells) == 13):
+			# team names
+			home_team = cells[7].find('a').getText()
+			away_team = cells[10].find('a').getText()
+
+			# event data
+			event = cells[1].find('img').get('title')
+			match_report = cells[12].find('a').get('href')
+
+			# parsing score to get winner
+			score_meta = cells[12].find('a').contents[0].getText().strip().split(':')
+			score_home = score_meta[0]
+			score_away = score_meta[1].split(' ')[0]
+
+			# putting together fixtures data
+			fixtures.append({
+				'time': cells[3].getText(),
+				'home_team': home_team,
+				'away_team': away_team,
+				'event': event,
+				'score': score_home + " : " + score_away,
+				'winner': getWinner(home_team, score_home, away_team, score_away),
+				'attendance': cells[11].getText(),
+				'link': "https://www.transfermarkt.com" + match_report
+			})
+
+	jsonDump('fixtures', fixtures)
+
+def jsonDump(filename, data):
+	with open(filename + '.json', 'wt') as of:
+		json.dump(data, of)
+
+if __name__ == "__main__":
+	
+	# PART 1: get schedule
+	getSchedule()
+
+	# PART 2: get fixtures
+	getFixtures()
