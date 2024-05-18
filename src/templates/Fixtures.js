@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "../css/Fixtures.css";
+import "../css/fixtures.css";
 
 export default class Fixtures extends Component {
 	constructor() {

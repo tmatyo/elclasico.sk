@@ -1,11 +1,11 @@
-import Countdown from "./components/Countdown";
-import Fixtures from "./components/Fixtures";
-import "./css/App.css";
+import Schedule from "./templates/Schedule";
+import Fixtures from "./templates/Fixtures";
+import "./css/app.css";
 
 export default function App() {
 	return (
 		<div id="app">
-			<Countdown />
+			<Schedule />
 			<Fixtures />
 		</div>
 	);

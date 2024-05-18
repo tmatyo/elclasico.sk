@@ -1,3 +1,17 @@
-#app #schedules .center-text {
-	text-align: center;
+#schedule {
+	h1 {
+		text-align: center;
+		margin: 30px auto;
+	}
+	.center-text {
+		text-align: center;
+	}
+
+	@media (min-width: 1300px) {
+		.container {
+			width: 70%;
+			margin: 0 auto;
+		}
+	}
+
 }

@@ -1,0 +1,36 @@
+.banner {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+	width: 100%;
+	margin: 30px auto;
+	text-align: center;
+
+	.banner-vs {
+		padding-top: 250px;
+	}
+
+	.banner-home h2,
+	.banner-away h2 {
+		margin-top: 30px;
+		font-weight: bold;
+	}
+}
+
+@media (max-width: 920px) {
+	.banner {
+		grid-template-columns: 1fr;
+
+		.banner-vs {
+			padding: 0;
+		}
+
+		.banner-home h2,
+		.banner-away h2 {
+			margin: 0;
+		}
+
+		img {
+			display: none;
+		}
+	}
+}
