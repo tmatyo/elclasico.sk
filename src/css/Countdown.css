@@ -1,82 +1,84 @@
 #countdown h1 {
-    text-align: center;
-    margin: 30px auto;
+	text-align: center;
+	margin: 30px auto;
 }
 
 #countdown .banner-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    width: 100%;
-    margin: 30px auto;
-    text-align: center;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+	width: 100%;
+	margin: 30px auto;
+	text-align: center;
 }
 
 #countdown .banner-grid .banner-vs {
-    padding-top: 250px;
+	padding-top: 250px;
 }
 
-#countdown .banner-grid .banner-home h2, #countdown .banner-grid .banner-away h2 {
-    margin-top: 30px;
-    font-weight: bold;
+#countdown .banner-grid .banner-home h2,
+#countdown .banner-grid .banner-away h2 {
+	margin-top: 30px;
+	font-weight: bold;
 }
 
 @media (max-width: 920px) {
-    #countdown .banner-grid .banner-vs {
-        padding: 0;
-    }
+	#countdown .banner-grid .banner-vs {
+		padding: 0;
+	}
 
-    #countdown .banner-grid {
-        grid-template-columns: 1fr;
-    }
+	#countdown .banner-grid {
+		grid-template-columns: 1fr;
+	}
 
-    #countdown .banner-grid .banner-home h2, #countdown .banner-grid .banner-away h2 {
-        margin: 0;
-    }
+	#countdown .banner-grid .banner-home h2,
+	#countdown .banner-grid .banner-away h2 {
+		margin: 0;
+	}
 
-    #countdown .banner-grid img {
-        display: none;
-    }
+	#countdown .banner-grid img {
+		display: none;
+	}
 }
 
 #countdown .cd-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-    width: 100%;
-    text-align: center;
-    grid-gap: 5px;
-    color: #fff;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+	width: 100%;
+	text-align: center;
+	grid-gap: 5px;
+	color: #fff;
 }
 
 #countdown .cd-grid .cd-cell .cd-number {
-    width: 100px;
-    height: 100px;
-    margin: 0 auto;
-    line-height: 100px;
-    font-size: 50px;
-    font-weight: bold;
-    background-color: #26cdcb;
-    margin-bottom: 5px;
+	width: 100px;
+	height: 100px;
+	margin: 0 auto;
+	line-height: 100px;
+	font-size: 50px;
+	font-weight: bold;
+	background-color: #26cdcb;
+	margin-bottom: 5px;
 }
 
 #countdown .cd-grid .cd-cell .cd-desc {
-    background-color: #26cdcb;
-    width: 100px;
-    margin: 0 auto;
-    text-transform: uppercase;
-    font-size: 15px;
-    font-weight: bold;
+	background-color: #26cdcb;
+	width: 100px;
+	margin: 0 auto;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: bold;
 }
 
 @media (max-width: 920px) {
-    #countdown .cd-grid {
-        grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-    }
+	#countdown .cd-grid {
+		grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+	}
 
-    #countdown .cd-grid .cd-cell .cd-number {
-        width: 100%;
-    }
-    
-    #countdown .cd-grid .cd-cell .cd-desc {
-        width: 100%;
-    }
+	#countdown .cd-grid .cd-cell .cd-number {
+		width: 100%;
+	}
+
+	#countdown .cd-grid .cd-cell .cd-desc {
+		width: 100%;
+	}
 }

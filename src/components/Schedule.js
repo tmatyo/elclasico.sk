@@ -1,18 +1,18 @@
-import React, { Component } from 'react';
-import '../css/Schedule.css';
+import React, { Component } from "react";
+import "../css/Schedule.css";
 
-import sc from './schedule.json';
+import sc from "./schedule.json";
 
 export default class Schedule extends Component {
 	constructor() {
 		super();
 		this.state = {
-			sc: []
+			sc: [],
 		};
 	}
 
 	componentDidMount() {
-		this.setState({sc:sc});
+		this.setState({ sc: sc });
 	}
 
 	render() {
@@ -26,14 +26,14 @@ export default class Schedule extends Component {
 							<th>Domáci</th>
 							<th>Hosťia</th>
 						</tr>
-						{this.state.sc.map(row => {
+						{this.state.sc.map((row) => {
 							return (
-							<tr key={row.time} className="upcoming-match">
-								<td className="center-text">{row.time}</td>
-								<td>{row.home_team}</td>
-								<td>{row.away_team}</td>
-							</tr>
-							)
+								<tr key={row.time} className="upcoming-match">
+									<td className="center-text">{row.time}</td>
+									<td>{row.home_team}</td>
+									<td>{row.away_team}</td>
+								</tr>
+							);
 						})}
 					</tbody>
 				</table>
