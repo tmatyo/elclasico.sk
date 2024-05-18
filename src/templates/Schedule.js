@@ -4,15 +4,15 @@ import Countdown from "../components/Countdown";
 import { useEffect, useState } from "react";
 
 export default function Schedule() {
-	const [ data, setData ] = useState({
+	const [data, setData] = useState({
 		away_team: "",
 		home_team: "",
 		time: "",
 	});
 
 	const clasicoIsPlanned = () => {
-		return data.away_team && data.home_team && data.time
-	}
+		return data.away_team && data.home_team && data.time;
+	};
 
 	useEffect(() => {
 		let v = new Date();
@@ -28,7 +28,7 @@ export default function Schedule() {
 		<div id="schedule">
 			<div className="container">
 				<h1>Nasledujúce El Clasico</h1>
-				<Banner awayTeam={data.away_team} homeTeam={data.home_team} isPlanned={clasicoIsPlanned()}/>
+				<Banner awayTeam={data.away_team} homeTeam={data.home_team} isPlanned={clasicoIsPlanned()} />
 				<Countdown time={data.time} />
 			</div>
 		</div>

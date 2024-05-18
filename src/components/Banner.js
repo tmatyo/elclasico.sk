@@ -2,7 +2,7 @@ import "../css/banner.css";
 import real from "../svg/Real_Madrid_CF.svg";
 import barca from "../svg/FC_Barcelona.svg";
 
-export default function Banner({awayTeam, homeTeam, isPlanned}) {
+export default function Banner({ awayTeam, homeTeam, isPlanned }) {
 	const getLogo = (team) => {
 		return team.includes("Barcelona") ? barca : real;
 	};
