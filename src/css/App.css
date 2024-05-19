@@ -36,7 +36,8 @@ html {
 	overflow: hidden;
 
 	h1,
-	h2 {
+	h2,
+	h3 {
 		text-transform: uppercase;
 		color: #24345a;
 		text-align: center;

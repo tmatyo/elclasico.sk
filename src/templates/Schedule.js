@@ -10,6 +10,17 @@ export default function Schedule() {
 		time: "",
 	});
 
+	const [matchTime, setMatchTime] = useState(0);
+
+	const getMatchTimeFromChild = (datetime) => {
+		setMatchTime(datetime);
+	};
+
+	const formatMatchTime = (matchTime) => {
+		const options = { weekday: "long", year: "numeric", month: "long", day: "numeric" };
+		return new Date(matchTime).toLocaleString(window.navigator.language || window.navigator.userLanguage, options);
+	};
+
 	const clasicoIsPlanned = () => {
 		return data.away_team && data.home_team && data.time;
 	};
@@ -30,12 +41,13 @@ export default function Schedule() {
 		<div id="schedule">
 			<div className="container">
 				<h1>Nasledujúce El Clasico</h1>
+				<h3>{matchTime ? formatMatchTime(matchTime) : "-"}</h3>
 				<Banner
 					awayTeam={assertName(data.away_team)}
 					homeTeam={assertName(data.home_team)}
 					isPlanned={clasicoIsPlanned()}
 				/>
-				<Countdown time={data.time} />
+				<Countdown time={data.time} passMatchTimeToParent={getMatchTimeFromChild} />
 			</div>
 		</div>
 	);

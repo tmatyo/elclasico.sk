@@ -1,7 +1,7 @@
 import "../css/countdown.css";
 import { useEffect, useState } from "react";
 
-export default function Countdown({ time }) {
+export default function Countdown({ time, passMatchTimeToParent }) {
 	const [cdown, setCdown] = useState({
 		days: 0,
 		hours: 0,
@@ -24,6 +24,9 @@ export default function Countdown({ time }) {
 	};
 
 	useEffect(() => {
+		let first = true;
+		let target = 0;
+
 		const t = setInterval(() => {
 			// there is no el clasico scheduled right now
 			if (time.length === 0) {
@@ -31,28 +34,40 @@ export default function Countdown({ time }) {
 			}
 
 			const oneDayInThePast = -86400000;
+			const now = new Date();
 
-			// calculate the date of the scheduled el clasico with the actual year
-			let now = new Date();
-			let matchTime = time.replace(" ", "").replace(":", ".").split(".");
-			let deadline = new Date(now.getFullYear(), matchTime[1] - 1, matchTime[0], matchTime[2], matchTime[3]);
-			let proposedCountDown = deadline - now;
+			if (first) {
+				// calculate the date of the scheduled el clasico with the actual year
+				const matchTime = time.replace(" ", "").replace(":", ".").split(".");
+				const deadline = new Date(
+					now.getFullYear(),
+					matchTime[1] - 1,
+					matchTime[0],
+					matchTime[2],
+					matchTime[3],
+				);
+				const proposedCountDown = deadline - now;
 
-			// if the date is in the past but not longer than 24h,
-			// lets assume it was played in the last 24h and
-			// turn off the countdown until the next run of the crawler
-			if (proposedCountDown < 0 && proposedCountDown > oneDayInThePast) {
-				clearInterval(t);
-				return;
-			}
-			// if the date suppose to be before yesterday,
-			// lets assume the date is for next year
-			else if (proposedCountDown < oneDayInThePast) {
-				deadline.setFullYear(deadline.getFullYear() + 1);
+				// if the date is in the past but not longer than 24h,
+				// lets assume it was played in the last 24h and
+				// turn off the countdown until the next run of the crawler
+				if (proposedCountDown < 0 && proposedCountDown > oneDayInThePast) {
+					clearInterval(t);
+					return;
+				}
+				// if the date suppose to be before yesterday,
+				// lets assume the date is for next year
+				else if (proposedCountDown < oneDayInThePast) {
+					deadline.setFullYear(deadline.getFullYear() + 1);
+				}
+
+				passMatchTimeToParent(deadline.valueOf());
+				target = deadline.valueOf();
+				first = false;
 			}
 
 			// otherwise start the countdown as is
-			startCdown(deadline - now);
+			startCdown(target - now);
 		}, 1000);
 	}, [time]);
 
