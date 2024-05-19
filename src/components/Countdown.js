@@ -25,21 +25,34 @@ export default function Countdown({ time }) {
 
 	useEffect(() => {
 		const t = setInterval(() => {
+			// there is no el clasico scheduled right now
 			if (time.length === 0) {
 				return;
 			}
 
-			let from = new Date();
-			let date = time.replace(" ", "").replace(":", ".").split(".");
-			let to = new Date(from.getFullYear(), date[1] - 1, date[0], date[2], date[3]);
-			let countDown = to - from;
+			const oneDayInThePast = -86400000;
 
-			if (countDown < 0) {
+			// calculate the date of the scheduled el clasico with the actual year
+			let now = new Date();
+			let matchTime = time.replace(" ", "").replace(":", ".").split(".");
+			let deadline = new Date(now.getFullYear(), matchTime[1] - 1, matchTime[0], matchTime[2], matchTime[3]);
+			let proposedCountDown = deadline - now;
+
+			// if the date is in the past but not longer than 24h,
+			// lets assume it was played in the last 24h and
+			// turn off the countdown until the next run of the crawler
+			if (proposedCountDown < 0 && proposedCountDown > oneDayInThePast) {
 				clearInterval(t);
 				return;
 			}
+			// if the date suppose to be before yesterday,
+			// lets assume the date is for next year
+			else if (proposedCountDown < oneDayInThePast) {
+				deadline.setFullYear(deadline.getFullYear() + 1);
+			}
 
-			startCdown(countDown);
+			// otherwise start the countdown as is
+			startCdown(deadline - now);
 		}, 1000);
 	}, [time]);
 
