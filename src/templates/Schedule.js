@@ -14,6 +14,10 @@ export default function Schedule() {
 		return data.away_team && data.home_team && data.time;
 	};
 
+	const assertName = (team) => {
+		return team.includes("Barcelona") ? "Barcelona" : "Real Madrid";
+	};
+
 	useEffect(() => {
 		let v = new Date();
 		fetch("/schedule.json?v=" + v.getTime())
@@ -22,13 +26,15 @@ export default function Schedule() {
 			.catch((error) => console.log("ERROR:", error));
 	}, []);
 
-	console.log(data);
-
 	return (
 		<div id="schedule">
 			<div className="container">
 				<h1>Nasledujúce El Clasico</h1>
-				<Banner awayTeam={data.away_team} homeTeam={data.home_team} isPlanned={clasicoIsPlanned()} />
+				<Banner
+					awayTeam={assertName(data.away_team)}
+					homeTeam={assertName(data.home_team)}
+					isPlanned={clasicoIsPlanned()}
+				/>
 				<Countdown time={data.time} />
 			</div>
 		</div>
