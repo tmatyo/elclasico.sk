@@ -9,40 +9,37 @@ export default function Countdown({ time }) {
 		seconds: 0,
 	});
 
-	const startCdown = (cd) => {
+	const startCdown = (countDown) => {
 		let days = 1000 * 60 * 60 * 24;
 		let hours = 1000 * 60 * 60;
 		let minutes = 1000 * 60;
 		let seconds = 1000;
 
 		setCdown({
-			days: Math.floor(cd / days),
-			hours: Math.floor((cd % days) / hours),
-			minutes: Math.floor((cd % hours) / minutes),
-			seconds: Math.floor((cd % minutes) / seconds),
+			days: Math.floor(countDown / days),
+			hours: Math.floor((countDown % days) / hours),
+			minutes: Math.floor((countDown % hours) / minutes),
+			seconds: Math.floor((countDown % minutes) / seconds),
 		});
 	};
 
 	useEffect(() => {
-		var t = setInterval(() => {
+		const t = setInterval(() => {
 			if (time.length === 0) {
 				return;
 			}
 
 			let from = new Date();
-			let date = time.replace(" ", "");
-			date = date.replace(":", ".");
-			date = date.split(".");
-
+			let date = time.replace(" ", "").replace(":", ".").split(".");
 			let to = new Date(from.getFullYear(), date[1] - 1, date[0], date[2], date[3]);
-			let cd = to - from;
+			let countDown = to - from;
 
-			if (cd < 0) {
+			if (countDown < 0) {
 				clearInterval(t);
 				return;
 			}
 
-			startCdown(cd);
+			startCdown(countDown);
 		}, 1000);
 	}, [time]);
 
