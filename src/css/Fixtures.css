@@ -97,12 +97,14 @@
 	top: -17px;
 	border-radius: 3px;
 	color: #24345a;
+	width: 110px;
+	text-align: center;
 }
 
 #app #fixtures .timeline .timeline-item .odd-line .time {
-	right: -41px;
+	right: -55px;
 }
 
 #app #fixtures .timeline .timeline-item .even-line .time {
-	left: -41px;
+	left: -55px;
 }

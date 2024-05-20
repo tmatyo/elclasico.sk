@@ -4,6 +4,10 @@ import { useEffect, useState } from "react";
 export default function Fixtures() {
 	const [fix, setFix] = useState([]);
 
+	const formatMatchTime = (matchDate) => {
+		return new Date(matchDate).toLocaleDateString(window.navigator.language || window.navigator.userLanguage);
+	};
+
 	useEffect(() => {
 		let v = new Date();
 		fetch("/fixtures.json?v=" + v.getTime())
@@ -24,7 +28,7 @@ export default function Fixtures() {
 							title={row.event}
 						>
 							<div className={index % 2 ? "even-line" : ""}>
-								{index % 2 ? <span className="time">{row.time}</span> : ""}
+								{index % 2 ? <span className="time">{formatMatchTime(row.date)}</span> : ""}
 							</div>
 							<a
 								href={row.link}
@@ -34,7 +38,7 @@ export default function Fixtures() {
 								<span>{row.home_team}</span> <span>{row.score}</span> <span>{row.away_team}</span>
 							</a>
 							<div className={index % 2 ? "" : "odd-line"}>
-								{index % 2 ? "" : <span className="time">{row.time}</span>}
+								{index % 2 ? "" : <span className="time">{formatMatchTime(row.date)}</span>}
 							</div>
 						</div>
 					);

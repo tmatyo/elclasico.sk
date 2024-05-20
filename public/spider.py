@@ -18,6 +18,20 @@ fixtureUrl = "https://www.transfermarkt.com/vergleich/vereineBegegnungen/statist
 userAgent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) snap Chromium/80.0.3987.116 Chrome/80.0.3987.116 Safari/537.36"
 ref = "https://www.google.sk/"
 target = "Barcelona"
+months = {
+	"Jan": "01",
+	"Feb": "02",
+	"Mar": "03",
+	"Apr": "04",
+	"May": "05",
+	"Jun": "06",
+	"Jul": "07",
+	"Aug": "08",
+	"Sep": "09",
+	"Oct": "10",
+	"Nov": "11",
+	"Dec": "12",
+}
 
 def viewSource(url):
 	service = Service(executable_path='/usr/local/bin/chromedriver')
@@ -60,13 +74,13 @@ def getSchedule():
 
 	jsonDump('schedule', schedule)
 
-def getWinner(homeT, homeS, awayT, awayS):
+def getWinner(homeTeam, homeScore, awayTeam, awayScore):
 	winner = ''
-	if(int(homeS) > int(awayS)):
-		winner = homeT
-	elif(int(homeS) < int(awayS)):
-		winner = awayT
-	elif(int(homeS) == int(awayS)):
+	if(int(homeScore) > int(awayScore)):
+		winner = homeTeam
+	elif(int(homeScore) < int(awayScore)):
+		winner = awayTeam
+	elif(int(homeScore) == int(awayScore)):
 		winner = "remiza"
 	else:
 		winner = ''
@@ -99,6 +113,15 @@ def getFixtures():
 			getStats(cells)
 		
 		if(len(cells) == 13):
+			# match date
+			date = cells[3].getText()
+			date = date.split(',')
+			monthAndDay = date[1].strip().split(' ')
+			day = monthAndDay[1]
+			
+			if(int(monthAndDay[1]) < 10):
+				day = "0" + day
+
 			# team names
 			home_team = cells[7].find('a').getText()
 			away_team = cells[10].find('a').getText()
@@ -114,7 +137,7 @@ def getFixtures():
 
 			# putting together fixtures data
 			fixtures.append({
-				'time': cells[3].getText(),
+				'date': date[2].strip() + "-" + months[monthAndDay[0]] + "-" + day,
 				'home_team': home_team,
 				'away_team': away_team,
 				'event': event,
