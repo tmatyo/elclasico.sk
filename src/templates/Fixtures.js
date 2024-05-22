@@ -8,6 +8,10 @@ export default function Fixtures() {
 		return new Date(matchDate).toLocaleDateString(window.navigator.language || window.navigator.userLanguage);
 	};
 
+	const getTitle = (event, attendance) => {
+		return attendance.length > 0 ? `Súťaž: ${event}, ${attendance} divákov` : `Súťaž: ${event}`;
+	};
+
 	useEffect(() => {
 		let v = new Date();
 		fetch("/fixtures.json?v=" + v.getTime())
@@ -25,7 +29,7 @@ export default function Fixtures() {
 						<div
 							key={index}
 							className={"timeline-item " + row.winner + (index % 2 ? " even" : " odd")}
-							title={row.event}
+							title={getTitle(row.event, row.attendance)}
 						>
 							<div className={index % 2 ? "even-line" : ""}>
 								{index % 2 ? <span className="time">{formatMatchTime(row.date)}</span> : ""}
