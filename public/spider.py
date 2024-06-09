@@ -11,6 +11,7 @@ from selenium import webdriver as wd
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup as bs
 import json
+import datetime
 
 # things
 scheduleUrl = "https://www.flashscore.sk/tim/real-madrid/W8mj7MDD/program/"
@@ -32,6 +33,8 @@ months = {
 	"Nov": "11",
 	"Dec": "12",
 }
+oldScheduleJson = []
+newScheduleJson = []
 
 def viewSource(url):
 	service = Service(executable_path='/usr/local/bin/chromedriver')
@@ -53,21 +56,35 @@ def viewSource(url):
 	return bs(web, 'html.parser')
 
 def getSchedule():
-	schedule = []
+	schedule = [False]
 	tree = viewSource(scheduleUrl)
 
 	# find the schedule
-	result = tree.findAll('div', attrs={'class':'event__match'})
+	result = tree.findAll('div', class_='event__match')
 
 	# loop through the schedule to get relevant data
 	for i in result:
-		home = i.find('div', class_='event__participant--home').getText()
-		away = i.find('div', class_='event__participant--away').getText()
+		home = i.find('div', class_='event__homeParticipant').getText()
+		away = i.find('div', class_='event__awayParticipant').getText()
 
 		# if its elclasico, save data
 		if(home.startswith(target) or away.startswith(target)):
+			schedule = []
+
+			matchtime = i.find('div', class_='event__time').getText()
+			d = matchtime.strip().split('.')
+			crawltime = d[1] + '.' + d[0] + '.' + d[2]
+			now = datetime.datetime.now()
+			matchtimeParsed = ''
+
+			if(isDateInFuture(crawltime)):
+				matchtimeParsed = str(now.year) + '.' + crawltime
+			else:
+				matchtimeParsed = str(now.year + 1) + '.' + crawltime
+
 			schedule.append({
-				'time': i.find('div', class_='event__time').getText(),
+				'time': matchtime,
+				'time_parsed': matchtimeParsed,
 				'home_team': home,
 				'away_team': away
 			})
@@ -150,13 +167,56 @@ def getFixtures():
 	jsonDump('fixtures', fixtures)
 
 def jsonDump(filename, data):
-	with open(filename + '.json', 'wt') as of:
-		json.dump(data, of)
+	with open(filename + '.json', 'wt') as file:
+		json.dump(data, file)
+
+def jsonRead(filename):
+	array = [False]
+	try:
+		with open(filename + '.json', 'r') as file:
+			array = json.load(file)
+	except:
+		pass
+
+	return array
+
+def parseDateString(matchtime):
+	d = matchtime.strip().split('.')
+	t = d[len(d) - 1].split(':')
+
+	if(len(d) == 3):		
+		return [ d[0], d[1], t[0], t[1] ]
+	
+	if(len(d) == 4):
+		return [ d[0], d[1], d[2], t[0], t[1] ]
+
+def isDateInFuture(matchtime):
+	d = parseDateString(matchtime)
+	now = datetime.datetime.now()
+
+	if(len(d) == 4):
+		theMatch = datetime.datetime(now.year, int(d[0]), int(d[1]), int(d[2]), int(d[3]))
+	else:
+		theMatch = datetime.datetime(int(d[0]), int(d[1]), int(d[2]), int(d[3]), int(d[4]))
+
+	return theMatch > now
 
 if __name__ == "__main__":
-	
-	# PART 1: get schedule
-	getSchedule()
 
-	# PART 2: get fixtures
-	getFixtures()
+	# load old schedule
+	oldScheduleJson = jsonRead('schedule')
+
+	# get new schedule
+	getSchedule()
+	newScheduleJson = jsonRead('schedule')
+
+	# no old schedule JSON or no elclasico was scheduled at last run
+	# new crawl has an actual date, so its either a first run or a new match was scheduled since last crawl, lets get list of fixtures
+	# if they would equal, nothing changed, so lets not waste compute on crawling a long list of fixtures, since nothing changed
+	#
+	# IMPORTANT: oldScheduleJson[0] is not THE ONLY elclasico scheduled, but THE NEXT elclasico
+	# new match was scheduled since last crawl with a closer date, or a match was played and another is still scheduled so lets get list of fixtures
+	# if they would equal, nothing was played, so no need to waste compute on loading fixtures, since they would be the same
+	if(oldScheduleJson[0] != newScheduleJson[0]):
+		getFixtures()
+	
