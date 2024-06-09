@@ -1,12 +1,12 @@
 import Schedule from "./templates/Schedule";
-import Fixtures from "./templates/Fixtures";
+import HistoricData from "./templates/HistoricData";
 import "./css/app.css";
 
 export default function App() {
 	return (
 		<div id="app">
 			<Schedule />
-			<Fixtures />
+			<HistoricData />
 		</div>
 	);
 }

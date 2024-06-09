@@ -1,0 +1,25 @@
+.stats {
+	margin: 50px 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+	th,
+	td {
+		padding: 10px;
+		background: #24355a;
+		border-radius: 3px;
+		text-align: center;
+	}
+
+	td {
+		color: #fff;
+	}
+}
+
+@media (max-width: 520px) {
+	table {
+		font-size: 10px;
+	}
+}
