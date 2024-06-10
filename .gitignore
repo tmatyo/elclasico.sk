@@ -28,3 +28,7 @@ backend/ghostdriver.log
 
 public/spyder_multi.py
 build-backup
+
+**/fixtures.json
+**/schedule.json
+**/stats.json
