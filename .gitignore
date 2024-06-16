@@ -32,3 +32,5 @@ build-backup
 **/fixtures.json
 **/schedule.json
 **/stats.json
+
+**/.venv
