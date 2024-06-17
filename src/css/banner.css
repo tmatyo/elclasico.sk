@@ -6,7 +6,7 @@
 	text-align: center;
 
 	.banner-vs {
-		padding-top: 250px;
+		padding-top: 150px;
 	}
 
 	.banner-home h2,
@@ -18,10 +18,9 @@
 
 @media (max-width: 920px) {
 	.banner {
-		grid-template-columns: 1fr;
 
 		.banner-vs {
-			padding: 0;
+            padding-top: 100px;
 		}
 
 		.banner-home h2,
@@ -30,7 +29,33 @@
 		}
 
 		img {
-			display: none;
+            height: 200px;
 		}
 	}
+}
+
+@media (max-width: 640px) {
+	.banner {
+
+		.banner-vs {
+			padding-top: 25px;
+		}
+
+		.banner-home h2,
+		.banner-away h2 {
+			display: none;
+		}
+
+		img {
+            height: 100px;
+		}
+	}
+}
+
+@media (max-width: 400px) {
+    .banner {
+        .banner-vs {
+            display: none;
+        }
+    }
 }
