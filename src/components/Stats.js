@@ -18,7 +18,7 @@ export default function Stats() {
 			.then((res) => res.json())
 			.then((res) => setStats(res[0]))
 			.catch((error) => console.log("ERROR:", error));
-	});
+	}, []);
 
 	return (
 		<div className="stats">

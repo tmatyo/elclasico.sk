@@ -18,7 +18,7 @@ export default function Fixtures() {
 			.then((res) => res.json())
 			.then((res) => setFix(res))
 			.catch((error) => console.log("ERROR:", error));
-	});
+	}, []);
 
 	return (
 		<div id="fixtures">
