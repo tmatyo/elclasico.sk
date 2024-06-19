@@ -69,7 +69,8 @@ def getSchedule():
 
 		# if its elclasico, save data
 		if(home.startswith(target) or away.startswith(target)):
-			schedule = []
+			if(schedule[0] == False):
+				schedule = []
 
 			matchtime = i.find('div', class_='event__time').getText()
 			d = matchtime.strip().split('.')
